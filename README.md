@@ -31,7 +31,6 @@
 ⚙️ Technical Skills
 
 
-
 <a target="_blank" align="center">
   <img align="right" top="200" height="300" width="400" alt="giphy (1)" src="https://github.com/user-attachments/assets/31493d5e-b631-4937-805e-ce3010e882d9" />
 
