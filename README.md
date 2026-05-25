@@ -1,70 +1,84 @@
-<h1 align="center">✦･ﾟ: ✧･ﾟ: hi, i'm Rustom Pontemayor :･ﾟ✧:･ﾟ✦</h1>
+<h1 align="center">Hi, I'm Rustom Pontemayor</h1>
 
-<h3 align="center">student • learner • builder • dreamer</h3>
+<h3 align="center">Student • Developer in Progress • Lifelong Learner</h3>
 
 <p align="center">
-
-![](https://rustomgomezpontemayor.com/ghpvc/?username=rustomgomezpontemayor-maker=PROFILE+VIEWS&color=blueviolet&style=plastic)
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-## ✦ about me
-
-- **👤 Name:** Rustom Pontemayor  
-- **🎓 Studying:** BTVTED-CP  
-- **🏫 School:** City College of Davao  
-- **📚 Learning:** Blockchain  
-- **💡 Interests:** Web Development / AI / Design  
-
-### ✨ goal
-> to improve a little every day and build meaningful projects
-
-### 🌟 fun fact
-> creative and always curious
-<img align="right" alt="jpg" width="300px" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rustompontemayor&theme=flat&no-frame=true&margin-w=10" />
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-## ✦ skills (growing slowly 🌱)
+## 📌 About Me
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="right">
+  <img src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" width="250" />
+</p>
+
+**Name:** Rustom Pontemayor  
+**Education:** BTVTED-CP  
+**Institution:** City College of Davao  
+**Focus Area:** Blockchain Technology  
+**Interests:** Web Development • Artificial Intelligence • UI/UX Design  
+
+---
+
+### 🎯 Objective
+> To continuously improve my skills and build meaningful, real-world projects.
+
+### 🌱 Personal Note
+> Curious learner who enjoys exploring how technology shapes the world.
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-## ✦ currently learning
+## ⚙️ Technical Skills
 
-- GitHub  
-- Networking  
-- Blockchain  
+**Frontend**
+- HTML
+- CSS
+
+**Backend / Programming**
+- Node.js
+- Python
+
+**Currently Exploring**
+- Git & GitHub
+- Networking Fundamentals
+- Blockchain Systems
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-## ✦ connect with me
+## 📊 GitHub Overview
 
-<p>
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rustompontemayor&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustompontemayor&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
 
-<a href="https://twitter.com/YOUR-LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+━━━━━━━━━━━━━━━━━━━━━━
 
-<a href="https://instagram.com/YOUR-LINK" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+## 🌐 Connect With Me
 
-<a href="https://yourwebsite.com" target="_blank">
-  <img src="https://img.shields.io/badge/Website-FF4500.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/YOUR-LINK">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/YOUR-LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <b>“small progress is still progress.”</b><br/>
-  ✦ thanks for visiting my profile ✦
+  <b>“Small progress is still progress.”</b><br/>
+  <i>Thanks for visiting my profile.</i>
 </p>
