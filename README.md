@@ -4,6 +4,7 @@
 
 
 
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📌 About Me
@@ -27,28 +28,38 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-## ⚙️ Technical Skills
-
-**Frontend**
-- HTML
-- CSS
+⚙️ Technical Skills
 
 
-**Backend / Programming**
-- Node.js
-- Python
-- C++
-- JavaScript
-- Java
-- React
+
+<a target="_blank" align="center">
+  <img align="right" top="200" height="300" width="400" alt="giphy (1)" src="https://github.com/user-attachments/assets/31493d5e-b631-4937-805e-ce3010e882d9" />
+
+</a>
 
 
-**Currently Exploring**
-- Git & GitHub
-- Networking 
-- Blockchain Systems
+<strong>Frontend</strong><br>
+HTML<br>
+CSS<br><br>
+
+<strong>Backend / Programming</strong><br>
+Node.js<br>
+Python<br>
+C++<br>
+JavaScript<br>
+Java<br>
+React<br><br>
+
+<strong>Currently Exploring</strong><br>
+Git & GitHub<br>
+Networking<br>
+Blockchain Systems<br>
+<table align="center">
+  <tr>
 
 
+  </tr>
+</table>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -70,6 +81,8 @@
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img width="1400" height="405" alt="e12df160840691 5ac930afc24a2 (1)" src="https://github.com/user-attachments/assets/55246843-2b95-4df2-89c7-1e23270cb1ff" />
+
 
 <p align="center">
   <b>“Small progress is still progress.”</b><br/>
