@@ -19,6 +19,7 @@ student • learner • builder • dreamer
 
 ✦ fun fact  
 → creative and always curious  
+<img align="right" alt="jpg" width="300px" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" />
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
