@@ -33,13 +33,19 @@
 - HTML
 - CSS
 
+
 **Backend / Programming**
 - Node.js
 - Python
+- C++
+- JavaScript
+- Java
+- React
+
 
 **Currently Exploring**
 - Git & GitHub
-- Networking Fundamentals
+- Networking 
 - Blockchain Systems
 
 
