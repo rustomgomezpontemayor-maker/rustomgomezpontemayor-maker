@@ -2,9 +2,8 @@
 
 <h3 align="center">Student • Developer in Progress • Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rustompontemayor&theme=flat&no-frame=true&margin-w=10" />
-</p>
+<img width="315" height="173" alt="image" src="https://github.com/user-attachments/assets/155d3aa5-c236-4efc-9d5a-f44402b1d08b" />
+
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
