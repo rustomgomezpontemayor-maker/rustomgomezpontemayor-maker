@@ -4,7 +4,7 @@
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=suryakantamangaraj&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
+![](https://rustomgomezpontemayor.com/ghpvc/?username=rustomgomezpontemayor-maker=PROFILE+VIEWS&color=blueviolet&style=plastic)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
