@@ -2,16 +2,15 @@
 
 <h3 align="center">Student • Developer in Progress • Lifelong Learner</h3>
 
-<img width="315" height="173" alt="image" src="https://github.com/user-attachments/assets/155d3aa5-c236-4efc-9d5a-f44402b1d08b" />
+<img width="515" height="373" alt="image" src="https://github.com/user-attachments/assets/155d3aa5-c236-4efc-9d5a-f44402b1d08b" />
 
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 ## 📌 About Me
 
-<p align="right">
-  <img src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" width="550" />
-</p>
+  <img src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" width="400" />
+
 
 **Name:** Rustom Pontemayor  
 **Education:** BTVTED-CP  
