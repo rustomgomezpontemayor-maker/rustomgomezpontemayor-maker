@@ -3,7 +3,7 @@
 <h3 align="center">student • learner • builder • dreamer</h3>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=rustompontemayor&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
+  (https://komarev.com/ghpvc/?username=rustompontemayor&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━━━
