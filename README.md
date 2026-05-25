@@ -3,8 +3,8 @@
 <h3 align="center">student • learner • builder • dreamer</h3>
 
 <p align="center">
-  (https://komarev.com/ghpvc/?username=rustompontemayor&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
-</p>
+
+![](https://komarev.com/ghpvc/?username=suryakantamangaraj&label=PROFILE+VIEWS&color=blueviolet&style=plastic)
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
@@ -21,6 +21,7 @@
 
 ### 🌟 fun fact
 > creative and always curious
+<img align="right" alt="jpg" width="300px" src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" />
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
