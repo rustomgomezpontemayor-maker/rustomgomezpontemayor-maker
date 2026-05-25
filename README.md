@@ -2,7 +2,6 @@
 
 <h3 align="center">Student • Developer in Progress • Lifelong Learner</h3>
 
-<img width="515" height="373" alt="image" src="https://github.com/user-attachments/assets/155d3aa5-c236-4efc-9d5a-f44402b1d08b" />
 
 
 ━━━━━━━━━━━━━━━━━━━━━━
