@@ -10,7 +10,7 @@
 ## 📌 About Me
 
 <p align="right">
-  <img src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" width="250" />
+  <img src="https://github.com/suryakantamangaraj/PublicAssets/blob/master/gif/profile.gif" width="550" />
 </p>
 
 **Name:** Rustom Pontemayor  
